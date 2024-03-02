@@ -33,14 +33,14 @@ function App() {
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router >
-        <Navbar />
+        <Navbar/>
         <Body>
           <Hero/>
           <Wrapper>
             <Skills />
             <Experience />
           </Wrapper>
-          <Projects openModal={openModal} setOpenModal={setOpenModal} />
+          <Projects openModal={openModal} setOpenModal={setOpenModal}/>
           <Wrapper>
             <Education />
             <Contact />

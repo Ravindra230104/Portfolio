@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Ravindra230104",
     resume:
-      "https://drive.google.com/file/d/1eFzqK9AEH7mYfx9rLn1od7aAKs8P5rqq/view?usp=drive_link",
+      "https://drive.google.com/file/d/1sTJkewnxum6b4XpvL-WIhaSeDivCB5yM/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ravindra-sapkal-3432b5225/edit/forms/skills/new/?profileFormEntryPoint=PROFILE_SECTION",
     twitter: "https://twitter.com/i/flow/login?redirect_after_login=%2FRavindr71364938",
     insta: "https://www.instagram.com/ravindra_sapkal/",
@@ -142,27 +142,27 @@ export const Bio = {
   ];
   
   export const experiences = [
-    {
-      id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "DevOps & Fullstack Engineering Intern",
-      company: "Flipr Inovations Pvt. Ltd.",
-      date: "Aug 2023 - July 2023",
-      desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
-      skills: [
-        "Docker",
-        "Terraform",
-        "AWS",
-        "EC2",
-        "Portainer",
-        "Nginx",
-        "JavaScript",
-        "TypeScript",
-        "Node Js",
-        " Next Js",
-      ],
-      doc: "",
-    },
+    // {
+    //   id: 0,
+    //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    //   role: "DevOps & Fullstack Engineering Intern",
+    //   company: "Flipr Inovations Pvt. Ltd.",
+    //   date: "Aug 2023 - July 2023",
+    //   desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    //   skills: [
+    //     "Docker",
+    //     "Terraform",
+    //     "AWS",
+    //     "EC2",
+    //     "Portainer",
+    //     "Nginx",
+    //     "JavaScript",
+    //     "TypeScript",
+    //     "Node Js",
+    //     " Next Js",
+    //   ],
+    //   doc: "",
+    // },
      
   ];
   
@@ -172,7 +172,7 @@ export const Bio = {
       img: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Indian_Institute_of_Information_Technology%2C_Nagpur_Logo.svg/800px-Indian_Institute_of_Information_Technology%2C_Nagpur_Logo.svg.png",
       school: "Indian Institute of Information Technology , Nagpur",
       date: "Dec 2021 - june 2025",
-      grade: "7.58 CGPA",
+      grade: "7.80 CGPA",
       desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology , Nagpur.  have completed 5 semesters and have a CGPA of 7.58. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
     },
@@ -202,7 +202,7 @@ export const Bio = {
       title: "AI Content Generator",
       date: "Jun 2023 - Jul 2023",
       description:
-        "Unleash the power of creativity with our AI Content Generator! Seamlessly crafting tailored content, it's your key to efficient and personalized content creation. Experience the future of content with simplicity and innovation",
+        "Developed an AI text generator web app using the MERN stack, featuring ChatGPT API integration for intelligent query responses and Stripe for secure payment processing. Designed and integrated a subscription-based model with four plans (Trial, Free, Basic, Premium), each offering varying monthly request limits and additional features, showcasing a versatile understanding of web development and user management.",
       image:
         "https://private-user-images.githubusercontent.com/110477092/290828940-70b84648-97b0-46c7-b53b-b9b91b70463d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2NDU0ODksIm5iZiI6MTcwMjY0NTE4OSwicGF0aCI6Ii8xMTA0NzcwOTIvMjkwODI4OTQwLTcwYjg0NjQ4LTk3YjAtNDZjNy1iNTNiLWI5YjkxYjcwNDYzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNVQxMjU5NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YmU5OGRiMjQzYWE2NGZjYzA4Yjg3NTgxZjdlNTg2ZWNjNzk0YjNiYmQyMGU5MDliNDI3ZjEwZWVlNmVhYWM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ahrU-BySxS53guegJyVQRVrgph3pU5LOyrR78hwD3jI",
       tags: [
@@ -214,42 +214,42 @@ export const Bio = {
         "Stripe",
       ],
       category: "web app",
-      github: "https://github.com/Ravindra230104/AI-content-Generator",
-      webapp: "https://ravindra230104.github.io/AI-content-Generator/",
+      github: "https://github.com/Ravindra230104/AI-Content_generator",
+      webapp: "https://aigenn.netlify.app/",
     },
     {
       id: 0,
-      title: "Podstream",
-      date: "Apr 2023 - May 2023",
+      title: "Income-Expense Tracker",
+      date: "June 2023 - July 2023",
       description:
-        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+        "Developed a MERN stack Expense Tracker with MongoDB, Express.js, React, and Node.js. Ensured data security withMongoDB integration, robust authentication, and validation.• Allow users to categorize and tag their expenses for better organization. Implement filters or search functionality basedon categories or tags to facilitate easy retrieval and analysis of specific types of expenses.",
       image:
         "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "web app",
-      github: "https://github.com/rishavchanda/Podstream",
-      webapp: "https://podstream.netlify.app/",
-      member: [
-        {
-          name: "Rishav Chanda",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-          linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-          github: "https://github.com/rishavchanda/",
-        },
-        {
-          name: "Upasana Chaudhuri",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-          linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-          github: "https://github.com/upasana0710",
-        },
-      ],
+      github: "https://github.com/Ravindra230104/ExpenseTracker",
+      webapp: "https://superlative-youtiao-85adcd.netlify.app/",
+      // member: [
+      //   {
+      //     name: "Rishav Chanda",
+      //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+      //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+      //     github: "https://github.com/rishavchanda/",
+      //   },
+      //   {
+      //     name: "Upasana Chaudhuri",
+      //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //     github: "https://github.com/upasana0710",
+      //   },
+      // ],
     },
     {
       id: 1,
-      title: "Vexa",
-      date: "Oct 2022 - Present",
+      title: "Finance Dashboard app",
+      date: "Dec 2023 - Jan 2024",
       description:
-        "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+        "Developed a Finance Dashboard web application utilizing React, TypeScript, Node.js, Express, and MongoDB.Integrated Recharts for dynamic data visualization, showcasing revenue, expenses, profit, and loss trends",
       image:
         "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
       tags: [
@@ -257,39 +257,27 @@ export const Bio = {
         "MongoDb",
         "Node Js",
         "Express Js",
-        "Redux",
-        "NodeMailer",
+        "Machine learning",
+        "Regression line",
+        "Recharts"
       ],
       category: "web app",
-      github: "https://github.com/rishavchanda/Project-Management-App",
+      github: "https://github.com/Ravindra230104/Finance-Dashboard-app",
       webapp: "https://vexa-app.netlify.app/",
     },
-    {
-      id: 3,
-      title: "Buckoid",
-      date: "Dec 2021 - Apr 2022",
-      description:
-        "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-      image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-      tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-      category: "android app",
-      github: "https://github.com/rishavchanda/Buckoid-Android-App",
-      webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-    },
-    {
-      id: 4,
-      title: "Whatsapp Clone",
-      date: "Jul 2021",
-      description:
-        "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-      image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-      tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-      webapp: "https://whatsapp-clone-rishav.web.app",
-    },
+    // {
+    //   id: 4,
+    //   title: "Whatsapp Clone",
+    //   date: "Jul 2021",
+    //   description:
+    //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+    //   image:
+    //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+    //   tags: ["React JS", "Firebase", "Firestore", "Node JS"],
+    //   category: "Android app",
+    //   github: "https://github.com/Ravindra230104/Finance-Dashboard-app",
+    //   webapp: "https://whatsapp-clone-rishav.web.app",
+    // },
   ];
   
   export const TimeLineData = [
